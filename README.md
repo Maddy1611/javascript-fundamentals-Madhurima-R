@@ -95,6 +95,23 @@ This particular collection of coding exercises focuses solely on JavaScript (occ
 
 ---
 
+### 5 - Arrays
+
+| Topics                                                | Code                                                                                 | Videos                               | Length |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------ | -----: |
+| Introduction to Arrays                                | [arrays-intro](/tutorials/05-arrays/arrays-intro/)                                   | [Demo](https://youtu.be/aJPwRCzTDrU) |   6:14 |
+| Creating Arrays of n Length                           | [creating-n-length](/tutorials/05-arrays/creating-n-length/)                         | [Demo](https://youtu.be/tV_Iuxt13Kw) |   4:52 |
+| Array Length, Indexing, and Bracket Notation          | [length-indexing-notation](/tutorials/05-arrays/length-indexing-notation/)           | [Demo](https://youtu.be/hxu2-AgMG0A) |   4:31 |
+| Common Array Methods: Adding & Removing Elements      | [array-methods-add-remove](/tutorials/05-arrays/array-methods-add-remove/)           | [Demo](https://youtu.be/shZWIO2dzhM) |   4:04 |
+| Common Array Methods: Querying & Accessing Elements   | [array-methods-query-access](/tutorials/05-arrays/array-methods-query-access/)       | [Demo](https://youtu.be/jaqKTOUsPN8) |   3:51 |
+| Common Array Methods: Combining & Extracting Elements | [array-methods-combine-extract](/tutorials/05-arrays/array-methods-combine-extract/) | [Demo](https://youtu.be/8BNkYFGJva0) |   4:59 |
+| Common Array Methods: Sorting & Reversing Elements    | [array-methods-sort-reverse](/tutorials/05-arrays/array-methods-sort-reverse/)       | [Demo](https://youtu.be/eDarMuePJEU) |   2:56 |
+| Converting Between Strings & Arrays                   | [array-string-conversion](/tutorials/05-arrays/array-string-conversion/)             | [Demo](https://youtu.be/s2x0N54wO0I) |   5:46 |
+| Multi-Dimensional Arrays                              | [multi-dimensional-arrays](/tutorials/05-arrays/multi-dimensional-arrays/)           | [Demo](https://youtu.be/m3JBINRAMWE) |   6:01 |
+|                                                       |                                                                                      | **TOTAL**                            |  43:14 |
+
+---
+
 _...more coming soon!_
 
 ---

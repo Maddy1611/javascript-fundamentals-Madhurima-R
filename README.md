@@ -140,10 +140,10 @@ _Coming soon!_
 | Introduction to Objects                 | [objects-intro](/tutorials/08-objects/objects-intro/)                                   | [Demo](https://youtu.be/3whafTBfg8U) |   5:42 |
 | Accessing & Modifying Object Properties | [accessing-modifying-properties](/tutorials/08-objects/accessing-modifying-properties/) | [Demo](https://youtu.be/Eu6IVzAOcdg) |   6:21 |
 | The Math Module & The Spread Operator   | [math-module](/tutorials/08-objects/math-module/)                                       | [Demo](https://youtu.be/Jf0QjQJRft0) |   7:24 |
-| Object Methods & Context                | []()                                                                                    | _Coming soon!_                       |        |
-| Complex Objects & Mutation              | []()                                                                                    | _Coming soon!_                       |        |
-| Looping Over Key/Value Pairs            | []()                                                                                    | _Coming soon!_                       |        |
-| Looping Over Arrays of Objects          | []()                                                                                    | _Coming soon!_                       |        |
+| Object Methods & Context                | _Coming soon!_                                                                          | _Coming soon!_                       |        |
+| Complex Objects & Mutation              | _Coming soon!_                                                                          | _Coming soon!_                       |        |
+| Looping Over Key/Value Pairs            | [looping-over-key-value-pairs](/tutorials/08-objects/looping-over-key-value-pairs/)     | _Coming soon!_                       |        |
+| Looping Over Arrays of Objects          | [looping-over-arrays-of-objects](/tutorials/08-objects/looping-over-arrays-of-objects/) | _Coming soon!_                       |        |
 |                                         |                                                                                         | **TOTAL**                            |        |
 
 ---

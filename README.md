@@ -122,42 +122,42 @@ This particular collection of coding exercises focuses solely on JavaScript (occ
 
 ### 3 - Errors & Debugging
 
-| Topics                              | Code                                                                           | Videos                               | Length |
-| ----------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------ | -----: |
-| Debugging Syntax and Runtime Errors | [syntax-errors](/tutorials/03-errors-and-debugging/syntax-and-runtime-errors/) | [Demo](https://youtu.be/63hfXRu7sDQ) |   6:48 |
-| Debugging Logic Errors              | [logic-errors](/tutorials/03-errors-and-debugging/logic-errors/)               | [Demo](https://youtu.be/_9iAOWDVpR0) |   4:02 |
-| Exception Handling                  | [exception-handling](/tutorials/03-errors-and-debugging/exception-handling/)   | _Coming soon!_                       |        |
-|                                     |                                                                                | **TOTAL**                            |        |
+| Topics                                | Code                                                                           | Videos                               |    Length |
+| ------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------ | --------: |
+| Debugging Syntax and Runtime Errors   | [syntax-errors](/tutorials/03-errors-and-debugging/syntax-and-runtime-errors/) | [Demo](https://youtu.be/63hfXRu7sDQ) |      6:48 |
+| Debugging Logic Errors                | [logic-errors](/tutorials/03-errors-and-debugging/logic-errors/)               | [Demo](https://youtu.be/_9iAOWDVpR0) |      4:02 |
+| Exception Handling: Try/Catch/Finally | [exception-handling](/tutorials/03-errors-and-debugging/exception-handling/)   | [Demo](https://youtu.be/v2tYs3wD9jM) |      6:39 |
+|                                       |                                                                                | **TOTAL**                            | **17:29** |
 
 ---
 
 ### 4 - Strings
 
-| Topics                                        | Code                                                                        | Videos                               | Length |
-| --------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------ | -----: |
-| String Length, Indexing, and Bracket Notation | [length-indexing-notation](/tutorials/04-strings/length-indexing-notation/) | [Demo](https://youtu.be/5ugTb7ZNn5c) |   5:34 |
-| Common String Methods: Searching Strings      | [string-methods-search](/tutorials/04-strings/string-methods-search/)       | [Demo](https://youtu.be/9kpV2qskS1M) |   4:36 |
-| Common String Methods: Transforming Strings   | [string-methods-transform](/tutorials/04-strings/string-methods-transform/) | [Demo](https://youtu.be/K3KdD3M3eTA) |   4:11 |
-| Common String Methods: Retrieving Substrings  | [string-methods-retrieve](/tutorials/04-strings/string-methods-retrieve/)   | [Demo](https://youtu.be/NkgNjj2a96w) |   5:03 |
-| Method Chaining                               | [method-chaining](/tutorials/04-strings/method-chaining/)                   | [Demo](https://youtu.be/C6q0YFZzM9o) |   4:14 |
-|                                               |                                                                             | **TOTAL**                                |  **23:38** |
+| Topics                                        | Code                                                                        | Videos                               |    Length |
+| --------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------ | --------: |
+| String Length, Indexing, and Bracket Notation | [length-indexing-notation](/tutorials/04-strings/length-indexing-notation/) | [Demo](https://youtu.be/5ugTb7ZNn5c) |      5:34 |
+| Common String Methods: Searching Strings      | [string-methods-search](/tutorials/04-strings/string-methods-search/)       | [Demo](https://youtu.be/9kpV2qskS1M) |      4:36 |
+| Common String Methods: Transforming Strings   | [string-methods-transform](/tutorials/04-strings/string-methods-transform/) | [Demo](https://youtu.be/K3KdD3M3eTA) |      4:11 |
+| Common String Methods: Retrieving Substrings  | [string-methods-retrieve](/tutorials/04-strings/string-methods-retrieve/)   | [Demo](https://youtu.be/NkgNjj2a96w) |      5:03 |
+| Method Chaining                               | [method-chaining](/tutorials/04-strings/method-chaining/)                   | [Demo](https://youtu.be/C6q0YFZzM9o) |      4:14 |
+|                                               |                                                                             | **TOTAL**                            | **23:38** |
 
 ---
 
 ### 5 - Arrays
 
-| Topics                                                | Code                                                                                 | Videos                               | Length |
-| ----------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------ | -----: |
-| Introduction to Arrays                                | [arrays-intro](/tutorials/05-arrays/arrays-intro/)                                   | [Demo](https://youtu.be/aJPwRCzTDrU) |   6:14 |
-| Creating Arrays of n Length                           | [creating-n-length](/tutorials/05-arrays/creating-n-length/)                         | [Demo](https://youtu.be/tV_Iuxt13Kw) |   4:52 |
-| Array Length, Indexing, and Bracket Notation          | [length-indexing-notation](/tutorials/05-arrays/length-indexing-notation/)           | [Demo](https://youtu.be/hxu2-AgMG0A) |   4:31 |
-| Common Array Methods: Adding & Removing Elements      | [array-methods-add-remove](/tutorials/05-arrays/array-methods-add-remove/)           | [Demo](https://youtu.be/shZWIO2dzhM) |   4:04 |
-| Common Array Methods: Querying & Accessing Elements   | [array-methods-query-access](/tutorials/05-arrays/array-methods-query-access/)       | [Demo](https://youtu.be/jaqKTOUsPN8) |   3:51 |
-| Common Array Methods: Combining & Extracting Elements | [array-methods-combine-extract](/tutorials/05-arrays/array-methods-combine-extract/) | [Demo](https://youtu.be/8BNkYFGJva0) |   4:59 |
-| Common Array Methods: Sorting & Reversing Elements    | [array-methods-sort-reverse](/tutorials/05-arrays/array-methods-sort-reverse/)       | [Demo](https://youtu.be/eDarMuePJEU) |   2:56 |
-| Converting Between Strings & Arrays                   | [array-string-conversion](/tutorials/05-arrays/array-string-conversion/)             | [Demo](https://youtu.be/s2x0N54wO0I) |   5:46 |
-| Multi-Dimensional Arrays                              | [multi-dimensional-arrays](/tutorials/05-arrays/multi-dimensional-arrays/)           | [Demo](https://youtu.be/m3JBINRAMWE) |   6:01 |
-|                                                       |                                                                                      | **TOTAL**                            |  **43:14** |
+| Topics                                                | Code                                                                                 | Videos                               |    Length |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------ | --------: |
+| Introduction to Arrays                                | [arrays-intro](/tutorials/05-arrays/arrays-intro/)                                   | [Demo](https://youtu.be/aJPwRCzTDrU) |      6:14 |
+| Creating Arrays of n Length                           | [creating-n-length](/tutorials/05-arrays/creating-n-length/)                         | [Demo](https://youtu.be/tV_Iuxt13Kw) |      4:52 |
+| Array Length, Indexing, and Bracket Notation          | [length-indexing-notation](/tutorials/05-arrays/length-indexing-notation/)           | [Demo](https://youtu.be/hxu2-AgMG0A) |      4:31 |
+| Common Array Methods: Adding & Removing Elements      | [array-methods-add-remove](/tutorials/05-arrays/array-methods-add-remove/)           | [Demo](https://youtu.be/shZWIO2dzhM) |      4:04 |
+| Common Array Methods: Querying & Accessing Elements   | [array-methods-query-access](/tutorials/05-arrays/array-methods-query-access/)       | [Demo](https://youtu.be/jaqKTOUsPN8) |      3:51 |
+| Common Array Methods: Combining & Extracting Elements | [array-methods-combine-extract](/tutorials/05-arrays/array-methods-combine-extract/) | [Demo](https://youtu.be/8BNkYFGJva0) |      4:59 |
+| Common Array Methods: Sorting & Reversing Elements    | [array-methods-sort-reverse](/tutorials/05-arrays/array-methods-sort-reverse/)       | [Demo](https://youtu.be/eDarMuePJEU) |      2:56 |
+| Converting Between Strings & Arrays                   | [array-string-conversion](/tutorials/05-arrays/array-string-conversion/)             | [Demo](https://youtu.be/s2x0N54wO0I) |      5:46 |
+| Multi-Dimensional Arrays                              | [multi-dimensional-arrays](/tutorials/05-arrays/multi-dimensional-arrays/)           | [Demo](https://youtu.be/m3JBINRAMWE) |      6:01 |
+|                                                       |                                                                                      | **TOTAL**                            | **43:14** |
 
 ---
 
@@ -184,7 +184,7 @@ This particular collection of coding exercises focuses solely on JavaScript (occ
 | Variable Scope                         | [variable-scope](/tutorials/07-functions/variable-scope/)             | [Demo](https://youtu.be/th_YkzQh6is) |   6:13 |
 | Procedural Recursion                   | [recursion-procedural](/tutorials/07-functions/recursion-procedural/) | [Demo](https://youtu.be/i8wz8EKtuBo) |   9:50 |
 | Reductive Recursion                    | [recursion-reductive](/tutorials/07-functions/recursion-reductive/)   | [Demo](https://youtu.be/Nwtxb4WMeck) |   4:51 |
-| Helper Functions                       | [helper-functions](/tutorials/07-functions/helper-functions)          | _Coming soon!_                       |        |
+| Helper Functions                       | [helper-functions](/tutorials/07-functions/helper-functions)          | [Demo](https://youtu.be/s_p5L9foub0) |   7:53 |
 | Interactive Programming with Functions | _Coming soon!_                                                        | _Coming soon!_                       |        |
 |                                        |                                                                       | **TOTAL**                            |        |
 
@@ -207,16 +207,16 @@ This particular collection of coding exercises focuses solely on JavaScript (occ
 
 ### 9 - More on Functions
 
-| Topics                                   | Code                                                                           | Videos                               | Length |
-| :--------------------------------------- | :----------------------------------------------------------------------------- | :----------------------------------- | -----: |
-| Arrow Function Syntax                    | [arrow-syntax](/tutorials/09-more-functions/arrow-syntax/)                     | [Demo](https://youtu.be/bSDmNGJoo-Q) |   6:42 |
-| Anonymous Functions                      | [anonymous-functions](/tutorials/09-more-functions/anonymous-functions/)       | [Demo](https://youtu.be/kLZEFZ2RfEc) |   6:23 |
-| Higher-Order Functions                   | [higher-order-functions](/tutorials/09-more-functions/higher-order-functions/) | [Demo](https://youtu.be/W0YOW14cyfg) |   8:47 |
-| Special Array Methods: Looping & Mapping | [looping-mapping](/tutorials/09-more-functions/looping-mapping/)               | [Demo](https://youtu.be/Lr4gNBg3mGQ) |   4:44 |
-| Special Array Methods: Querying          | [querying](/tutorials/09-more-functions/querying/)                             | [Demo](https://youtu.be/7MyWPOuFH6M) |   4:42 |
-| Special Array Methods: Reducing          | [reducing](/tutorials/09-more-functions/reducing/)                             | [Demo](https://youtu.be/tOANZ51UMdI) |   5:16 |
-| Special Array Methods: Advanced Sorting  | [advanced-sorting](/tutorials/09-more-functions/advanced-sorting/)             | [Demo](https://youtu.be/DkI12Vr7gdI) |   5:40 |
-|                                          |                                                                                | **TOTAL**                            |  **40:34** |
+| Topics                                   | Code                                                                           | Videos                               |    Length |
+| :--------------------------------------- | :----------------------------------------------------------------------------- | :----------------------------------- | --------: |
+| Arrow Function Syntax                    | [arrow-syntax](/tutorials/09-more-functions/arrow-syntax/)                     | [Demo](https://youtu.be/bSDmNGJoo-Q) |      6:42 |
+| Anonymous Functions                      | [anonymous-functions](/tutorials/09-more-functions/anonymous-functions/)       | [Demo](https://youtu.be/kLZEFZ2RfEc) |      6:23 |
+| Higher-Order Functions                   | [higher-order-functions](/tutorials/09-more-functions/higher-order-functions/) | [Demo](https://youtu.be/W0YOW14cyfg) |      8:47 |
+| Special Array Methods: Looping & Mapping | [looping-mapping](/tutorials/09-more-functions/looping-mapping/)               | [Demo](https://youtu.be/Lr4gNBg3mGQ) |      4:44 |
+| Special Array Methods: Querying          | [querying](/tutorials/09-more-functions/querying/)                             | [Demo](https://youtu.be/7MyWPOuFH6M) |      4:42 |
+| Special Array Methods: Reducing          | [reducing](/tutorials/09-more-functions/reducing/)                             | [Demo](https://youtu.be/tOANZ51UMdI) |      5:16 |
+| Special Array Methods: Advanced Sorting  | [advanced-sorting](/tutorials/09-more-functions/advanced-sorting/)             | [Demo](https://youtu.be/DkI12Vr7gdI) |      5:40 |
+|                                          |                                                                                | **TOTAL**                            | **40:34** |
 
 ---
 
